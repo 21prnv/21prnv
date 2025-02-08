@@ -1,4 +1,4 @@
-[![An image of @21prnv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/21prnv)](https://holopin.io/@21prnv)
+
 <h1 align="center">Hi 👋, I'm Pranav Patil</h1>
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Full Stack , Flutter**
 
