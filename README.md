@@ -1,4 +1,4 @@
-21 Engineer - Full Stack and Flutter
+21 Engineer - Full Stack and app
 
 I build, ship, fix and scale!
 
